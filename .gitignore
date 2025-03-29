@@ -2,3 +2,4 @@
 /utils.py
 /verification.py
 /__pycache__
+.env
